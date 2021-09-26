@@ -7,7 +7,6 @@ function Header() {
             <a href="/">
                 <h1> Praise Opara </h1>
             </a>
-            <Navigation></Navigation>
         </header>
     );
 }
