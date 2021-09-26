@@ -1,12 +1,14 @@
 import React from "react";
+import Navigation from "../Navigation";
 
 function Header() {
     return (
-        <section>
-            <h1>
-                This is the Header
-            </h1>
-        </section>
+        <header className="flex-row">
+            <a href="/">
+                <h1> Praise Opara </h1>
+            </a>
+            <Navigation></Navigation>
+        </header>
     );
 }
 
