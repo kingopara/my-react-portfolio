@@ -1,8 +1,12 @@
 import React from "react";
+import Project from "../Project/Project";
 
 function Portfolio() {
     return (
-        <h1>Portfolio</h1>
+        <div>
+            <h1>Portfolio</h1>
+            <Project></Project>
+        </div>
     );
 }
 

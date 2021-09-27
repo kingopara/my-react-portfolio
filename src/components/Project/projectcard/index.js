@@ -1,7 +1,7 @@
 import React from "react";
-import '../../components/Project/style.css'
+import './style.css';
 
-function Project() {
+function ProjectCard(props) {
     return (
     <div className="card">
       <div className="img-container">
@@ -24,4 +24,4 @@ function Project() {
     );
 }
 
-export default Project;
+export default ProjectCard;

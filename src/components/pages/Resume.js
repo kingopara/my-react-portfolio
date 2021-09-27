@@ -5,6 +5,8 @@ function Resume() {
         <div>
             <h1>Resume</h1>
             <br/>
+            <h4>Download my resume</h4>
+            <br/>
             <h3>
                 Front-End Proficiencies
             </h3>

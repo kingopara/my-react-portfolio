@@ -3,7 +3,8 @@ import Navigation from "../Navigation";
 
 function Header() {
     return (
-        <header className="flex-row">
+        <header >
+            {/* className="flex-row" */}
             <a href="/">
                 <h1> Praise Opara </h1>
             </a>
