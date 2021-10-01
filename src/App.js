@@ -38,12 +38,12 @@ import Footer from "../src/components/Footer/index"
 
 function App() {
   return (
-    <div>
-      <Header/>
+    <div >
       <main>
+      <Header/>
         <Navigation/>
-      </main>
       <Footer/>
+      </main>
     </div>
   )
 }

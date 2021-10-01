@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
     return (
-        <footer>
+        <div>
             <h1 className="center">
                 <a href="#">
                     <i className="fab fa-linkedin" />
@@ -11,7 +11,7 @@ function Footer() {
                     <i className="fab fa-github" />
                 </a>
             </h1>
-        </footer>
+        </div>
     );
 }
 

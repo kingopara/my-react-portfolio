@@ -10,13 +10,13 @@ function ProjectCard(props) {
       <div className="content">
         <ul>
           <li>
-            <strong>Name:</strong> {props.name}
+            <strong>Title:</strong> {props.name}
           </li>
           <li>
-            <strong>Occupation:</strong> {props.occupation}
+            <strong>Deployed Project</strong> {props.occupation}
           </li>
-          <li>
-            <strong>Location:</strong> {props.location}
+          <li className="fab fa-github">
+            <strong>Github Repo</strong> {props.location}
           </li>
         </ul>
       </div>

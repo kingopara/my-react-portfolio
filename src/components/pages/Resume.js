@@ -5,7 +5,9 @@ function Resume() {
         <div>
             <h1>Resume</h1>
             <br/>
-            <h4>Download my resume</h4>
+            <h4>
+                <a href="resume.pdf" download="resume resume.pdg">Download my resume</a>
+            </h4>
             <br/>
             <h3>
                 Front-End Proficiencies
