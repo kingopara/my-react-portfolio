@@ -6,7 +6,7 @@ function Resume() {
             <h1>Resume</h1>
             <br/>
             <h4>
-                <a href="resume.pdf" download="resume resume.pdg">Download my resume</a>
+                <a href="resume.pdf" download="resume resume.pdf">Download my resume</a>
             </h4>
             <br/>
             <h3>

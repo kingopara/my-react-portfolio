@@ -2,12 +2,12 @@ import React from "react";
 
 function Footer() {
     return (
-        <div>
+        <div >
             <h1 className="center">
                 <a href="#">
                     <i className="fab fa-linkedin" />
                 </a>
-                <a href="#">
+                <a href="https://github.com/kingopara">
                     <i className="fab fa-github" />
                 </a>
             </h1>
