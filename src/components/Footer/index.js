@@ -1,8 +1,9 @@
 import React from "react";
+import './style.css';
 
 function Footer() {
     return (
-        <div >
+        <div className="footer">
             <h1 className="center">
                 <a href="#">
                     <i className="fab fa-linkedin" />

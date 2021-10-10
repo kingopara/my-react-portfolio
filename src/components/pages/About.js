@@ -1,5 +1,5 @@
 import React from "react";
-import coverImg from "../../assets/cover/portfolio.jpg";
+import coverImg from "../../assets/cover/cover-img.png";
 
 function About() {
     return (
@@ -15,7 +15,9 @@ function About() {
                         </div>
                         <div className="col s10">
                             <p className="black-text">
-                            I'm a full-stack web-developer with a background in Petroleum Engineering working currently in the (photomask) manufacturing industry. I see Web-development together with Engineering as the closiest thing to magic and thats what caught my attention and interest.
+                            I'm a full-stack web-developer with a background in Petroleum Engineering working currently in the photomask industry where we transform customer data into actual products.
+                            <br/>
+                            I see Web-development together with Engineering as the closiest thing to magic and thats what caught my attention and interest.
                             Come work with me lets make some MAGIC!
                             </p>
                         </div>
