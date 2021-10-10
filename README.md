@@ -22,6 +22,9 @@ SO THAT I can assess whether they're a good candidate for an open position
 * [Badges](#Badges)
 * [Contributing](#contributing)
 
+## Preview
+![Preview](src/assets/react-portfolio.png)
+
 ## Project Requirements
 
 * WHEN I load the portfolio
