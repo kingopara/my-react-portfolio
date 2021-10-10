@@ -8,6 +8,10 @@ I WANT to view a potential employee's deployed React portfolio of work samples
 
 SO THAT I can assess whether they're a good candidate for an open position
 
+[Link to deployed site](http://kingopara.github.io/my-react-portfolio)
+
+[Github Repo](https://github.com/kingopara/my-react-portfolio)
+
 ## Table of content
 * [Description](#description)
 * [Project Requirements](#projectrequirements)
