@@ -52,7 +52,14 @@ function Project() {
             src: require("../../assets/Projects/act-finder2.png").default,
             githubRepo: "https://github.com/JaviD17/rpg-racer",
             deployedApp: ""
+        },
+        {
+            title: "BizzyBee",
+            src: require("../../assets/Projects/preview.png").default,
+            githubRepo: "https://github.com/kingopara/bizzy-bee",
+            deployedApp: "https://bizzy-bee21.herokuapp.com/"
         }
+
     ];
 
     return (
