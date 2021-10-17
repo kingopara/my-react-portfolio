@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/praise-react-portfolio/static/css/main.fb41b925.chunk.css",
-    "main.js": "/praise-react-portfolio/static/js/main.ab939b73.chunk.js",
-    "main.js.map": "/praise-react-portfolio/static/js/main.ab939b73.chunk.js.map",
+    "main.js": "/praise-react-portfolio/static/js/main.0b60abb3.chunk.js",
+    "main.js.map": "/praise-react-portfolio/static/js/main.0b60abb3.chunk.js.map",
     "runtime-main.js": "/praise-react-portfolio/static/js/runtime-main.312ac120.js",
     "runtime-main.js.map": "/praise-react-portfolio/static/js/runtime-main.312ac120.js.map",
     "static/js/2.db01611d.chunk.js": "/praise-react-portfolio/static/js/2.db01611d.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.312ac120.js",
     "static/js/2.db01611d.chunk.js",
     "static/css/main.fb41b925.chunk.css",
-    "static/js/main.ab939b73.chunk.js"
+    "static/js/main.0b60abb3.chunk.js"
   ]
 }
