@@ -57,7 +57,7 @@ function Project() {
             title: "BizzyBee",
             src: require("../../assets/Projects/preview.png").default,
             githubRepo: "https://github.com/kingopara/bizzy-bee",
-            deployedApp: "https://bizzy-bee21.herokuapp.com/"
+            deployedApp: "https://ancient-forest-23329.herokuapp.com/"
         }
 
     ];
