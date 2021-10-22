@@ -1,5 +1,5 @@
 import React from "react";
-import Wrapper from "./wrapper3";
+// import Wrapper from "./wrapper3";
 import './Project3.css';
 
 function Project() {
@@ -63,7 +63,7 @@ function Project() {
     ];
 
     return (
-        <Wrapper>
+        // <Wrapper>
             <div className=" grid">
                 {projects.map(({ title, src, githubRepo, deployedApp }) => (
                     <ul
@@ -87,7 +87,7 @@ function Project() {
                 ))}
 
             </div>
-        </Wrapper>
+        // </Wrapper>
     )
 }
 

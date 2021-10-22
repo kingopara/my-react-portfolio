@@ -5,7 +5,7 @@ import Project from "../Project3/Project3";
 
 function Portfolio() {
     return (
-        <div className="grid">
+        <div >
             <h1>Portfolio</h1>
             <Project></Project>
         </div>
